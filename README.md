@@ -2,7 +2,7 @@
 
 This is George Bisbas (aka Georgios Bismpas/Γεώργιος Μπίσμπας)
 
-I am working as a Post-Doctoral Research Assistant at Imperial College London
+I am working as a Post-Doctoral Research Associate at Imperial College London
 
 - 🔭 I am mostly allocating my time to two open-source projects:
   - https://github.com/devitocodes/devito
