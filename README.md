@@ -2,7 +2,8 @@
 
 This is George Bisbas (aka Georgios Bismpas/Γεώργιος Μπίσμπας)
 
-I am working as a Post-Doctoral Research Associate at Imperial College London
+I am working as a Post-Doctoral Research Associate at Imperial College London.
+I like working at the intersection of high-performance computing, domain-specific languages, and compiler optimizations for computational science.
 
 - 🔭 I am mostly allocating my time to two open-source projects:
   - https://github.com/devitocodes/devito
