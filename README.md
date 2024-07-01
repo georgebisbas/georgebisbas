@@ -10,7 +10,7 @@ I like working at the intersection of high-performance computing, domain-specifi
   - https://github.com/xdslproject/xdsl
 
 
-My CV is available [here](docs/cv_01july24.pdf).
+My CV is available [here](docs/cv_bisbas_01july24.pdf).
 
 
 Short Bio:
