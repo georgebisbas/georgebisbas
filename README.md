@@ -15,7 +15,7 @@ My CV is available [here](docs/cv_bisbas_01july24.pdf).
 
 Short Bio:
 
-- PpostDoc @Imperial College London, 2023 - now
+- PostDoc @Imperial College London, 2023 - now
 - PhD from the Department of Computing, Imperial College London, 2023
 - MSc in Advanced Computer and Communication Systems, specialization in Intelligent Systems - Methods of Computational Intelligence and Applications, Aristotle University of Thessaloniki, 2019
 - Dipl. Eng in Electrical and Computer Engineering, Aristotle University of Thessaloniki, 2017
