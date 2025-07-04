@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 This is George Bisbas (aka Georgios Bismpas/Γεώργιος Μπίσμπας)
+My CV is available [here](docs/cv_bisbas_04jul25.pdf).
 
 Short Bio:
 
@@ -15,7 +16,6 @@ I like working at the intersection of high-performance computing, domain-specifi
   - https://github.com/devitocodes/devito
   - https://github.com/xdslproject/xdsl
 
-My CV is available [here](docs/cv_bisbas_27feb25.pdf).
 
 <!--
 **georgebisbas/georgebisbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
