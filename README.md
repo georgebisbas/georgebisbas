@@ -2,26 +2,20 @@
 
 This is George Bisbas (aka Georgios Bismpas/Γεώργιος Μπίσμπας)
 
-I am working as a Post-Doctoral Research Associate at Imperial College London.
-I like working at the intersection of high-performance computing, domain-specific languages, and compiler optimizations for computational science.
+Short Bio:
+
+- PostDoc @Imperial College London, May 2022 - Mar 2025
+- PhD @Department of Computing, Imperial College London, 2023
+- MSc in Advanced Computer and Communication Systems, specialization in Intelligent Systems - Methods of Computational Intelligence and Applications, Aristotle University of Thessaloniki, 2019
+- Dipl. Eng in Electrical and Computer Engineering, Aristotle University of Thessaloniki, 2017
+
+I like working at the intersection of high-performance computing, domain-specific languages, compiler optimizations, and code generation for computational science applications.
 
 - 🔭 I am mostly allocating my time to two open-source projects:
   - https://github.com/devitocodes/devito
   - https://github.com/xdslproject/xdsl
 
-
 My CV is available [here](docs/cv_bisbas_27feb25.pdf).
-
-
-Short Bio:
-
-- PostDoc @Imperial College London, 2023 - now
-- PhD from the Department of Computing, Imperial College London, 2023
-- MSc in Advanced Computer and Communication Systems, specialization in Intelligent Systems - Methods of Computational Intelligence and Applications, Aristotle University of Thessaloniki, 2019
-- Dipl. Eng in Electrical and Computer Engineering, Aristotle University of Thessaloniki, 2017
-
-
-
 
 <!--
 **georgebisbas/georgebisbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
