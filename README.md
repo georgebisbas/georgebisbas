@@ -2,7 +2,7 @@
 
 This is George Bisbas (aka Georgios Bismpas/Γεώργιος Μπίσμπας)
 
-My CV is available [here](docs/cv_bisbas_04jul25.pdf).
+My CV is available [here](docs/cv_bisbas_07jul25.pdf).
 
 Short Bio:
 
