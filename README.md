@@ -4,16 +4,15 @@ This is George Bisbas (aka Georgios Bismpas/Γεώργιος Μπίσμπας)
 
 My CV is available [here](docs/cv_bisbas_09Sept25.pdf).
 
-A website I regulary update is hosted [here](https://georgebisbas.github.io/).
+A website I regularly update is hosted [here](https://georgebisbas.github.io/).
 
 Short Bio:
+  - PostDoc, Imperial College London, May 2022 - Mar 2025
+  - PhD, Department of Computing, Imperial College London, 2023
+  - MSc in Advanced Computer and Communication Systems, specialization in Intelligent Systems - Methods of Computational Intelligence and Applications, Aristotle University of Thessaloniki, 2019
+  - Dipl. Eng in Electrical and Computer Engineering, Aristotle University of Thessaloniki, 2017
 
-- PostDoc, Imperial College London, May 2022 - Mar 2025
-- PhD, Department of Computing, Imperial College London, 2023
-- MSc in Advanced Computer and Communication Systems, specialization in Intelligent Systems - Methods of Computational Intelligence and Applications, Aristotle University of Thessaloniki, 2019
-- Dipl. Eng in Electrical and Computer Engineering, Aristotle University of Thessaloniki, 2017
-
-- I really like working on:
+I really like working on:
   - High Performance Computing (HPC)
   - Computational Science
   - Domain-specific Languages (DSLs)
