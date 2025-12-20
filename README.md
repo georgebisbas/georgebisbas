@@ -8,6 +8,7 @@ A website I regularly update is hosted [here](https://georgebisbas.github.io/).
 
 Short Bio:
   - Senior Research Engineer, Huawei Zurich Research Center (ZRC), December 2025 - Today
+  - Military service, Hellenic Air Force, May 2025-November 2025
   - PostDoc, Imperial College London, May 2022 - Mar 2025
   - PhD, Department of Computing, Imperial College London, 2023
   - MSc in Advanced Computer and Communication Systems, specialization in Intelligent Systems - Methods of Computational Intelligence and Applications, Aristotle University of Thessaloniki, 2019
