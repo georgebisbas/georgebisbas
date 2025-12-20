@@ -2,7 +2,7 @@
 
 This is George Bisbas (aka Georgios Bismpas/Γεώργιος Μπίσμπας)
 
-My CV is available [here](docs/cv_bisbas_09Sept25.pdf).
+My CV is available [here](docs/cv_bisbas_21Dec25.pdf).
 
 A website I regularly update is hosted [here](https://georgebisbas.github.io/).
 
