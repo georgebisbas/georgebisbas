@@ -30,6 +30,8 @@ and ALL combinations thereof.
   - https://github.com/devitocodes/devito
   - https://github.com/xdslproject/xdsl
 
+- Most of my work now happens in https://gitcode.com/. Related projects include:
+  - https://gitcode.com/cann/pypto   
 
 
 
